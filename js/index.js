@@ -1,1 +1,3 @@
-add(1，2);
+function myfunction() {
+	document.write(sum(2,3));
+}
