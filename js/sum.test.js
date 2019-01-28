@@ -5,8 +5,8 @@ test('add 1+2 to equal 3', () => {
 });
 
 
-test('add 12+34 to equal 46', () => {
-	expect(sum(12,34)).toBe(46);
+test('add 12+34 to equal 13', () => {
+	expect(sum(12,34)).toBe(13);
 });
 
 test('add 38+62 to equal 100', () => {
